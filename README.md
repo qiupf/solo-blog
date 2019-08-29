@@ -10,6 +10,11 @@ qiupf 的个人博客
 
 ### 最新
 
+* [Finder](http://www.meetpanda.xyz:8081/articles/2019/08/29/1567069294894.html)
+* [Alfred 4破解](http://www.meetpanda.xyz:8081/articles/2019/08/29/1567067814681.html)
+* [Alfred使用简介](http://www.meetpanda.xyz:8081/articles/2019/08/29/1567067149093.html)
+* [Mac快捷键的图形符号](http://www.meetpanda.xyz:8081/articles/2019/08/29/1567065058925.html)
+* [Windows家庭版Docker的安装](http://www.meetpanda.xyz:8081/articles/2019/08/28/1567001359935.html)
 * [grpc安装使用及调用工具](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566963931813.html)
 * [Json转go struct](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566963440031.html)
 * [MacOS 破解 Navicat](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566963344739.html)
