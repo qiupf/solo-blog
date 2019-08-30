@@ -10,6 +10,8 @@ qiupf 的个人博客
 
 ### 最新
 
+* [ShadowSocks Client](http://www.meetpanda.xyz:8081/articles/2019/08/30/1567159648216.html)
+* [Mysql原理](http://www.meetpanda.xyz:8081/articles/2019/08/30/1567145521764.html)
 * [Finder](http://www.meetpanda.xyz:8081/articles/2019/08/29/1567069294894.html)
 * [Alfred 4破解](http://www.meetpanda.xyz:8081/articles/2019/08/29/1567067814681.html)
 * [Alfred使用简介](http://www.meetpanda.xyz:8081/articles/2019/08/29/1567067149093.html)
