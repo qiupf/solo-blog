@@ -10,6 +10,8 @@ qiupf 的个人博客
 
 ### 最新
 
+* [mac推荐安装](http://www.meetpanda.xyz:8081/articles/2019/09/04/1567565834115.html)
+* [计算机图书](http://www.meetpanda.xyz:8081/articles/2019/09/04/1567562407468.html)
 * [iOS安装app](http://www.meetpanda.xyz:8081/articles/2019/09/03/1567480338391.html)
 * [计网编程和抓包](http://www.meetpanda.xyz:8081/articles/2019/09/02/1567407726959.html)
 * [ShadowSocks Client](http://www.meetpanda.xyz:8081/articles/2019/08/30/1567159648216.html)
@@ -28,6 +30,9 @@ qiupf 的个人博客
 * [Mac下Homebrew的安装与使用](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566962649987.html)
 * [pat题解](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566958721818.html)
 * [PAT高频词汇及短语](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566954776154.html)
+
+### 热门
+
 * [I‘m Back](http://www.meetpanda.xyz:8081/articles/2019/08/27/1566900838460.html)
 
 
