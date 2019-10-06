@@ -10,6 +10,7 @@ qiupf 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.meetpanda.xyz:8081/my-github-repos)
 * [docker 搭建gitlab](http://www.meetpanda.xyz:8081/articles/2019/09/05/1567666190440.html)
 * [mac推荐安装](http://www.meetpanda.xyz:8081/articles/2019/09/04/1567565834115.html)
 * [计算机图书](http://www.meetpanda.xyz:8081/articles/2019/09/04/1567562407468.html)
@@ -29,10 +30,10 @@ qiupf 的个人博客
 * [apk大全](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566962914609.html)
 * [go语言包管理网站](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566962809464.html)
 * [Mac下Homebrew的安装与使用](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566962649987.html)
-* [pat题解](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566958721818.html)
 
 ### 热门
 
+* [pat题解](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566958721818.html)
 * [PAT高频词汇及短语](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566954776154.html)
 * [I‘m Back](http://www.meetpanda.xyz:8081/articles/2019/08/27/1566900838460.html)
 
