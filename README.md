@@ -10,6 +10,7 @@ qiupf 的个人博客
 
 ### 最新
 
+* [小米9用不了Okhttp库](http://www.meetpanda.xyz:8081/articles/2019/10/23/1571838909169.html)
 * [通过service后台定位](http://www.meetpanda.xyz:8081/articles/2019/10/20/1571572098569.html)
 * [我在 GitHub 上的开源项目](http://www.meetpanda.xyz:8081/my-github-repos)
 * [docker 搭建gitlab](http://www.meetpanda.xyz:8081/articles/2019/09/05/1567666190440.html)
@@ -29,7 +30,6 @@ qiupf 的个人博客
 * [MacOS 破解 Navicat](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566963344739.html)
 * [MacOS Docker安装](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566963044597.html)
 * [apk大全](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566962914609.html)
-* [go语言包管理网站](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566962809464.html)
 
 ### 热门
 
@@ -37,6 +37,7 @@ qiupf 的个人博客
 * [PAT高频词汇及短语](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566954776154.html)
 * [I‘m Back](http://www.meetpanda.xyz:8081/articles/2019/08/27/1566900838460.html)
 * [Mac下Homebrew的安装与使用](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566962649987.html)
+* [go语言包管理网站](http://www.meetpanda.xyz:8081/articles/2019/08/28/1566962809464.html)
 
 
 
